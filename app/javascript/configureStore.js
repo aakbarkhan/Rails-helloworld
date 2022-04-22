@@ -8,7 +8,7 @@ import { GET_THINGS_SUCCESS } from "./components/HelloWorld";
 const inititalState = {
   greetings: [
     {
-      name: "Hi! How are you today?",
+      name: "Hi, How was your day today?",
     },
   ],
 };
